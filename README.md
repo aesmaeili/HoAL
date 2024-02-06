@@ -1,0 +1,2 @@
+# HoAL
+Holonic Averaging Learning
